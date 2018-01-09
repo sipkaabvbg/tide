@@ -35,11 +35,17 @@ The project contains an API package "com.tide.mobile.api" with all the interface
 ### Implementation
 
 The implementation of functionality is found in the following packages:
+
 -com.tide.mobile -this package is the primary launch class of the application
+
 -com.tide.mobile.controller -this package contains the controllers in the application
+
 -com.tide.mobile.config -this package contains the configuration class
+
 -com.tide.mobile.dao -this package contains the DAO classes
+
 -com.tide.mobile.domain -this package are the classes describing the application domain
+
 -com.tide.test -this package contains classes running tests
 
 ##Test scenarios
